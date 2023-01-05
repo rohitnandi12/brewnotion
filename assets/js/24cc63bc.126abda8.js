@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8507],{2577:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/brewnotion/blog/tags/facebook","allTagsPath":"/brewnotion/blog/tags","count":1}')}}]);
