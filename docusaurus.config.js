@@ -9,7 +9,7 @@ const config = {
   title: 'Rohit Nandi',
   tagline: 'Dinosaurs are cool',
   url: 'https://rohitnandi12.github.io',
-  baseUrl: '/testDocu/',
+  baseUrl: '/brewnotion/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
