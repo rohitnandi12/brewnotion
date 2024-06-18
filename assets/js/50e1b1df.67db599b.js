@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbrewnotion=self.webpackChunkbrewnotion||[]).push([[7955],{9043:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/brewnotion/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
