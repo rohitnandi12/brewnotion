@@ -137,6 +137,10 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+    plugins: [
+      // '@docusaurus/plugin-content-pages',
+      'D:/github/brewnotion/monitoring-plugin'
+    ],
 };
 
 export default config;
